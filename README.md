@@ -5,9 +5,13 @@
 --[Table of Contents]--
 
    1.[Description](#Description)
+   
    2.[Install](#Install)
+   
    3.[Instructions](#Instructions)
+   
    4.[Credits](#Credits)
+   
    5.[Questions](#Contact)
 
 ##Description
