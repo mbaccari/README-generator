@@ -34,7 +34,7 @@ once the depencencies are installed, run "node index.js" and fill out all prompt
 Marshall Baccari(me)
 
 
-##Contact me (#Contact)
+##Contact me
 
 For any questions, contact me here:
 
