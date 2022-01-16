@@ -4,11 +4,11 @@
 
 --[Table of Contents]--
 
-    1.[Description](#Description)
-    2.[Install](#Install)
-    3.[Instructions](#Instructions)
-    4.[Credits](#Credits)
-    5.[Questions](#Contact)
+   1.[Description](#Description)
+   2.[Install](#Install)
+   3.[Instructions](#Instructions)
+   4.[Credits](#Credits)
+   5.[Questions](#Contact)
 
 ##Description
 This project is to set up prompts to help a user make a functional and professional README
