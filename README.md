@@ -4,11 +4,11 @@
 
 --[Table of Contents]--
 
-    1.[Description](#description)
-    2.[Install](#install)
-    3.[Instructions](#instructions)
-    4.[Credits](#credits)
-    5.[Questions](#email)
+    1.[Description](#Description)
+    2.[Install](#Install)
+    3.[Instructions](#Instructions)
+    4.[Credits](#Credits)
+    5.[Questions](#Contact)
 
 ##Description
 This project is to set up prompts to help a user make a functional and professional README
@@ -22,6 +22,7 @@ once the depencencies are installed, run "node index.js" and fill out all prompt
 ##Credits
 Marshall Baccari(me)
 
+##Contact me
 For any questions, contact me here:
 -marshall.d.baccari@gmail.com
 -mbaccari
