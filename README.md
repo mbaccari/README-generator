@@ -14,32 +14,32 @@
 
 5.[Questions](#questions)
 
-##Description
+## Description
 
 My project was built to make a streamlined process to create an effective and professional readme file for a project.
 
 
-##Install
+## Install
 
 When you clone off of github, just open up the file in vs code, go to your terminal, and run "npm i" to install dependencies
 
 
-##Instructions
+## Instructions
 
 Once installed, go to the terminal again and type in "node index.js". That will run the code and in the terminal, prompt the questions. After all the questions are answered, your readme template with be populated with your answers and a file will be created
 
 
-##Credits
+## Credits
 
 Marshall Baccari (me)
 
 
-##License
+## License
 
 This project is protected under GNU AGPLv3.
 
 
-##Questions
+## Questions
 
 -If you have questions, feel free to email me at marshall.d.baccari@gmail.com
 
