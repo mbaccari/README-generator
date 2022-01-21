@@ -50,4 +50,4 @@ https://choosealicense.com/licenses/mpl-2.0
 
 ## Video of usage
 
-![] (demo.gif)
+![](demo.gif)
