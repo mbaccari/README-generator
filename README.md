@@ -50,4 +50,4 @@ This project is protected under Mozilla Public License 2.0.
 
 ## Video of usage
 
-![gif of using] (/assets/demo.gif)
+![] (demo.gif)
