@@ -38,7 +38,7 @@ Marshall Baccari (me)
 
 This project is protected under Mozilla Public License 2.0.
 
-[License Link] https://choosealicense.com/licenses/mpl-2.0
+https://choosealicense.com/licenses/mpl-2.0
 
 
 ## Questions
@@ -46,3 +46,8 @@ This project is protected under Mozilla Public License 2.0.
 -If you have questions, feel free to email me at marshall.d.baccari@gmail.com
 
 -Check out my github profile at https://github.com/mbaccari
+
+
+## Video of usage
+
+![gif of using] (/assets/demo.gif)
