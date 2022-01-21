@@ -50,8 +50,4 @@ https://choosealicense.com/licenses/mpl-2.0
 
 ## Video of usage
 
-<<<<<<< HEAD
-![gif of using] (/assets/demo.gif)
-=======
 ![] (demo.gif)
->>>>>>> a48b60f91dd57665d5ab3375236c895dbad7932c
