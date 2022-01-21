@@ -1,6 +1,6 @@
-##README Generator  
+## README file generator
 
-![License: GNU_AGPLv3](https://img.shields.io/badge/License-GNU_AGPLv3-yellow.svg)
+![License: Mozilla](https://img.shields.io/badge/License-Mozilla-yellow.svg)
 
 --[Table of Contents]--
 
@@ -12,21 +12,21 @@
 
 4.[Credits](#credits)
 
-5.[Questions](#questions)
+5.[Questions](#email)
 
 ## Description
 
-My project was built to make a streamlined process to create an effective and professional readme file for a project.
+This is to create a professional and effective readme from a template to more efficiently and concisely create a readme file for a project 
 
 
 ## Install
 
-When you clone off of github, just open up the file in vs code, go to your terminal, and run "npm i" to install dependencies
+To install, just download the js file off github and open in vs code
 
 
 ## Instructions
 
-Once installed, go to the terminal again and type in "node index.js". That will run the code and in the terminal, prompt the questions. After all the questions are answered, your readme template with be populated with your answers and a file will be created
+To use, open the folder in a bash terminal and run "node index.js" and fill out the prompts to create your readme file
 
 
 ## Credits
@@ -36,7 +36,9 @@ Marshall Baccari (me)
 
 ## License
 
-This project is protected under GNU AGPLv3.
+This project is protected under Mozilla Public License 2.0.
+
+![License: mpl-2.0](https://choosealicense.com/licenses/mpl-2.0)
 
 
 ## Questions
