@@ -49,7 +49,7 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-    return `![License](https://choosealicense.com/licenses/${license})`
+    return `[License Link] https://choosealicense.com/licenses/${license}`
 }
 
 // TODO: Create a function to generate markdown for README
