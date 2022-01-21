@@ -38,7 +38,7 @@ Marshall Baccari (me)
 
 This project is protected under Mozilla Public License 2.0.
 
-![License: mpl-2.0](https://choosealicense.com/licenses/mpl-2.0)
+![License](https://choosealicense.com/licenses/mpl-2.0)
 
 
 ## Questions
